@@ -113,6 +113,6 @@ Focus:
 
 ## Connect
 
-* Portfolio: https://roman-shrestha.info
+* Portfolio: https://www.roman-shrestha.info
 * GitHub: https://github.com/romanshrestha20
 * LinkedIn: https://www.linkedin.com/in/roman-shrestha/
